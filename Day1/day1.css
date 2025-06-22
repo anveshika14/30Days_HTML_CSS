@@ -1,0 +1,24 @@
+#container{
+				width: 300px;
+				height: 300px;
+				border: 2px solid black;
+			}
+			.box{
+				width: 50px;
+				height: 50px;
+			}
+			#static-box{
+				background-color: blue;
+			}
+			#relative-box{
+				background-color: green;
+				position: relative;
+				left: 20px;
+				top: 20px;
+			}
+			#absolute-box{
+				background-color: red;
+				position: absolute;
+				top: 220px;
+				left: 20px;
+			}
