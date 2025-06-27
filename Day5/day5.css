@@ -6,7 +6,6 @@
 	transition: transform 0.2s;
   }
   
-  /* Container setup */
   .container {
 	background-color: yellow;
 	width: 22%;
@@ -17,12 +16,11 @@
 	padding: 0.2rem 0.2rem;
   }
   
-  /* Hover effect only on the individual box */
   .box:hover {
 	animation: wobble 1s infinite;
   }
   
-  /* Keyframes for wobble */
+
   @keyframes wobble {
 	0%   { transform: translate(0px, 0px) rotate(0deg); }
 	10%  { transform: translate(1px, -1px) rotate(-1deg); }
