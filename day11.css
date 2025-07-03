@@ -10,7 +10,7 @@ body {
   --front-bg-color: #bbb;
   --front-text-color: #black;
   --back-bg-color: rgba(76, 0, 130, 0.534);
-  --back-text-colo: white;
+  --back-text-color: white;
 }
 .card {
   position: absolute;
@@ -54,6 +54,6 @@ img {
 
 .back {
   background: var(--back-bg-color);
-  color: var(--back-text-colo);
+  color: var(--back-text-color);
   transform: rotateY(180deg);
 }
