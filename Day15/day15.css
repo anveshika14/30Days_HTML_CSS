@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700;600;&display=swap");
+
+/* #18181b - NavBar Background Color */
+
+/* #a1a1aa - Text Color */
+
+/* Get Started Button Bg color - #5046e5 */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+  }
+  
+  body {
+	background-color: #0d0d0d;
+	font-family: Arial, sans-serif;
+  }
+  
+  .navbar {
+	width: 100%;
+	padding: 15px 40px;
+	background-color: #1a1a1a;
+	color: white;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+  }
+  
+  .logo {
+	display: flex;
+	align-items: center;
+	font-size: 1.2rem;
+	font-weight: bold;
+  }
+  
+  .logo-icon {
+	color: red;
+	font-size: 1.5rem;
+	margin-right: 5px;
+  }
+  
+  .nav-links {
+	display: flex;
+	gap: 25px;
+	font-size: 0.95rem;
+	align-items: center;
+  }
+  
+  .nav-links a, .dropdown {
+	color: #d1d1d1;
+	text-decoration: none;
+	cursor: pointer;
+	transition: color 0.3s;
+  }
+  
+  .nav-links a:hover, .dropdown:hover {
+	color: white;
+  }
+  
+  .auth-buttons {
+	display: flex;
+	gap: 15px;
+	align-items: center;
+  }
+  
+  .login {
+	color: #d1d1d1;
+	text-decoration: none;
+  }
+  
+  .get-started {
+	background-color: #6366f1;
+	color: white;
+	padding: 8px 14px;
+	border-radius: 6px;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 0.9rem;
+	transition: background-color 0.3s;
+  }
+  
+  .get-started:hover {
+	background-color: #4f46e5;
+  }
+  
