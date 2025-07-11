@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Codedamn Login</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h2>Sign in to <span id="title">codedamn</span></h2>
+
+    <form class="login-form">
+      <label for="email">Email address / Username</label>
+      <input type="text" id="email" name="email" placeholder="Enter email or username" />
+
+      <label for="password">Password</label>
+      <input type="password" id="password" name="password" placeholder="Enter password" />
+
+      <div class="options">
+        <label>
+          <input type="checkbox" />
+          Remember me
+        </label>
+        <a href="#">Forgot your password?</a>
+      </div>
+
+      <button type="submit" class="signin-btn">Sign in</button>
+
+      <div class="spacer">
+        <span>Or continue with</span>
+      </div>
+
+      <div class="oauth-buttons">
+        <button class="oauth">
+          <img src="/assets/google.svg" alt="Google" />
+        </button>
+        <button class="oauth">
+          <img src="assets/github.svg" alt="GitHub" />
+        </button>
+      </div>
+
+      <p class="create-account">
+        Don’t have an account?
+        <a href="#">Create Account</a>
+      </p>
+
+      <p class="privacy-text">
+        This site is protected by reCAPTCHA and the Google
+        <a href="#">Privacy Policy</a> and
+        <a href="#">Terms of Service</a> apply.
+      </p>
+    </form>
+  </div>
+</body>
+</html>
