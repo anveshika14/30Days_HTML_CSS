@@ -39,8 +39,7 @@ body {
 	border-right: 6px solid transparent;
 	border-bottom: 6px solid #333;
   }
-  
-  /* Show tooltip on hover */
+
   #button:hover .tooltip {
 	opacity: 1;
 	visibility: visible;
