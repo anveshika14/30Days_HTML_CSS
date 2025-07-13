@@ -11,8 +11,7 @@ body {
 	position: relative;
 	font-size: 16px;
   }
-  
-  /* Tooltip container */
+
   .tooltip {
 	position: absolute;
 	top: 100%;
