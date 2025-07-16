@@ -30,3 +30,7 @@ Each folder includes:
 - Any necessary assets (images, fonts, etc.)
   
 ---
+
+📌 Acknowledgements
+Thanks to Codedamn for creating the 30-day learning challenge and exercises that inspired me to practice each day.
+
