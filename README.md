@@ -12,7 +12,7 @@ This repository contains 30 days of structured and practical HTML & CSS challeng
 
 ## 🗓️ What I've Learnt
 
-Over the course of 30 days, I have covered the topics like:
+Over 30 days, I have covered the topics like:
 
 - ✅ HTML basics: tags, elements, forms, tables, and more
 - ✅ CSS fundamentals: selectors, box model, colors, typography
@@ -23,3 +23,10 @@ Over the course of 30 days, I have covered the topics like:
 
 ---
 
+Each folder includes:
+
+- `index.html` or relevant HTML files
+- `style.css` for styling
+- Any necessary assets (images, fonts, etc.)
+  
+---
