@@ -31,6 +31,6 @@ Each folder includes:
   
 ---
 
-📌 Acknowledgements
-Thanks to Codedamn for creating the 30-day learning challenge and exercises that inspired me to practice each day.
+## 📌 Acknowledgements
+Thanks to [Codedamn](https://codedamn.com) for creating the 30-day learning challenge and exercises that inspired me to practice each day.
 
