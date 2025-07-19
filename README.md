@@ -7,7 +7,6 @@ Welcome to **30 Days of HTML and CSS** – a daily practice journey to master th
 This repository contains 30 days of structured and practical HTML & CSS challenges aimed at beginners and intermediate learners. Each day focuses on a specific topic or concept, helping you gradually build strong foundational skills in front-end development.
 
 
----
 
 ## 🗓️ What I've Learnt
 
