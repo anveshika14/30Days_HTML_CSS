@@ -1,7 +1,6 @@
 # 30 Days of HTML and CSS 🚀
 
 Welcome to **30 Days of HTML and CSS** – a daily practice journey to master the fundamentals of web development, inspired by the hands-on exercises provided by [Codedamn](https://codedamn.com).
-
 ## 📚 About This Repository
 
 This repository contains 30 days of structured and practical HTML & CSS challenges aimed at beginners and intermediate learners. Each day focuses on a specific topic or concept, helping you gradually build strong foundational skills in front-end development.
