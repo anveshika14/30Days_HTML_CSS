@@ -6,8 +6,6 @@ Welcome to **30 Days of HTML and CSS** – a daily practice journey to master th
 
 This repository contains 30 days of structured and practical HTML & CSS challenges aimed at beginners and intermediate learners. Each day focuses on a specific topic or concept, helping you gradually build strong foundational skills in front-end development.
 
-
-
 ## 🗓️ What I've Learnt
 
 Over 30 days, I have covered the topics like:
@@ -19,15 +17,11 @@ Over 30 days, I have covered the topics like:
 - ✅ Real-world mini-projects
 - ✅ Best practices and clean code
 
----
-
 Each folder includes:
 
 - `index.html` or relevant HTML files
 - `style.css` for styling
 - Any necessary assets (images, fonts, etc.)
-  
----
 
 ## 📌 Acknowledgements
 
