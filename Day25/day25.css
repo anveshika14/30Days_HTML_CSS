@@ -1,11 +1,9 @@
-/* Base reset */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
   }
   
-  /* Bottom navigation */
   nav.main-nav {
     position: fixed;
     bottom: 0;
