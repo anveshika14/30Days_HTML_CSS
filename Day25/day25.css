@@ -30,8 +30,7 @@
   nav.main-nav svg:hover {
     fill: #007BFF;
   }
-  
-  /* Hide on larger screens */
+
   @media (min-width: 640px) {
     nav.main-nav {
       display: none;
