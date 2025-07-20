@@ -1,0 +1,40 @@
+/* Base reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Bottom navigation */
+  nav.main-nav {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: #fff;
+    border-top: 1px solid #ccc;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px 0;
+    z-index: 1000;
+  }
+  
+  nav.main-nav svg {
+    width: 24px;
+    height: 24px;
+    fill: #333;
+    transition: fill 0.3s;
+  }
+  
+  nav.main-nav svg:hover {
+    fill: #007BFF;
+  }
+  
+  /* Hide on larger screens */
+  @media (min-width: 640px) {
+    nav.main-nav {
+      display: none;
+    }
+  }
+  
