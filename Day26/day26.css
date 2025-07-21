@@ -1,8 +1,7 @@
 table tr:nth-child(even) {
     background-color: lightblue; /* light gray for even rows */
   }
-  
-  /* Optional: Add basic table styling */
+
   table {
     width: 60%;
     margin: 40px auto;
