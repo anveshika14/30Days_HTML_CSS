@@ -1,5 +1,5 @@
 table tr:nth-child(even) {
-    background-color: lightblue; /* light gray for even rows */
+    background-color: lightblue;
   }
 
   table {
