@@ -1,0 +1,8 @@
+body {
+	/* Add styles for background image */
+	height: 100vh;
+	background-color: #747a40; /* Set background color */
+	background-image: url('pineapple-icon.svg');
+	background-repeat: repeat;
+	background-size: 64px 64px
+}
